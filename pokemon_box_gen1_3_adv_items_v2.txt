@@ -1,0 +1,3836 @@
+Bulbasaur @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Sleep Powder
+- Leech Seed
+
+Ivysaur @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Sleep Powder
+- Synthesis
+
+Venusaur
+Ability: Overgrow
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Sleep Powder
+- Synthesis
+
+Charmander @ Leftovers
+Ability: Blaze
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Mild Nature
+- Flamethrower
+- Dragon Claw
+- Brick Break
+- Smokescreen
+
+Charmeleon @ Leftovers
+Ability: Blaze
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Mild Nature
+- Flamethrower
+- Dragon Claw
+- Brick Break
+- Slash
+
+Charizard
+Ability: Blaze
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Mild Nature
+- Dragon Claw
+- Dragon Dance
+- Flamethrower
+- Rock Slide
+
+Squirtle @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Toxic
+- Protect
+
+Wartortle @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Rapid Spin
+- Toxic
+
+Blastoise
+Ability: Torrent
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Rapid Spin
+- Toxic
+
+Caterpie @ Quick Claw
+Ability: Shield Dust
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Tackle
+- String Shot
+
+Metapod @ Leftovers
+Ability: Shed Skin
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Harden
+
+Butterfree @ Leftovers
+Ability: Compound Eyes
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Sleep Powder
+- Psychic
+- Giga Drain
+- Stun Spore
+
+Weedle @ Poison Barb
+Ability: Shield Dust
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Poison Sting
+- String Shot
+
+Kakuna @ Leftovers
+Ability: Shed Skin
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Impish Nature
+- Harden
+
+Beedrill @ Leftovers
+Ability: Swarm
+EVs: 252 Atk / 4 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Sludge Bomb
+- Brick Break
+- Swords Dance
+- Double-Edge
+
+Pidgey @ Sharp Beak
+Ability: Keen Eye
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Aerial Ace
+- Return
+- Sand-Attack
+- Quick Attack
+
+Pidgeotto @ Leftovers
+Ability: Keen Eye
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Aerial Ace
+- Return
+- Feather Dance
+- Quick Attack
+
+Pidgeot
+Ability: Keen Eye
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Aerial Ace
+- Return
+- Feather Dance
+- Toxic
+
+Rattata @ Choice Band
+Ability: Guts
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Super Fang
+- Return
+- Quick Attack
+- Shadow Ball
+
+Raticate
+Ability: Guts
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Super Fang
+- Return
+- Shadow Ball
+- Quick Attack
+
+Spearow @ Sharp Beak
+Ability: Keen Eye
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Drill Peck
+- Return
+- Quick Attack
+- Steel Wing
+
+Fearow
+Ability: Keen Eye
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Drill Peck
+- Return
+- Steel Wing
+- Quick Attack
+
+Ekans @ Poison Barb
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Sludge Bomb
+- Earthquake
+- Glare
+- Rest
+
+Arbok
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Sludge Bomb
+- Earthquake
+- Glare
+- Rock Slide
+
+Pikachu @ Light Ball
+Ability: Static
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Hasty Nature
+- Thunderbolt
+- Surf
+- Brick Break
+- Encore
+
+Raichu
+Ability: Static
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Hasty Nature
+- Thunderbolt
+- Surf
+- Brick Break
+- Encore
+
+Sandshrew @ Soft Sand
+Ability: Sand Veil
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Swords Dance
+- Rapid Spin
+
+Sandslash
+Ability: Sand Veil
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Swords Dance
+- Rapid Spin
+
+Nidoran-F @ Poison Barb
+Ability: Poison Point
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Toxic
+
+Nidorina @ Poison Barb
+Ability: Poison Point
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Sludge Bomb
+- Ice Beam
+- Thunderbolt
+- Toxic
+
+Nidoqueen
+Ability: Poison Point
+EVs: 252 HP / 128 Atk / 128 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Quiet Nature
+- Earthquake
+- Ice Beam
+- Thunderbolt
+- Sludge Bomb
+
+Nidoran-M @ Poison Barb
+Ability: Poison Point
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Sludge Bomb
+- Double Kick
+- Ice Beam
+- Thunderbolt
+
+Nidorino @ Poison Barb
+Ability: Poison Point
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Sludge Bomb
+- Horn Attack
+- Ice Beam
+- Thunderbolt
+
+Nidoking
+Ability: Poison Point
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Earthquake
+- Megahorn
+- Ice Beam
+- Thunderbolt
+
+Clefairy @ Twisted Spoon
+Ability: Cute Charm
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Thunderbolt
+- Ice Beam
+- Soft-Boiled
+
+Clefable
+Ability: Cute Charm
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Calm Mind
+- Thunderbolt
+- Ice Beam
+- Soft-Boiled
+
+Vulpix @ Charcoal
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Flamethrower
+- Hypnosis
+- Will-O-Wisp
+- Confuse Ray
+
+Ninetales
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Flamethrower
+- Hypnosis
+- Will-O-Wisp
+- Toxic
+
+Jigglypuff @ Silk Scarf
+Ability: Cute Charm
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Body Slam
+- Thunder Wave
+- Wish
+- Protect
+
+Wigglytuff @ Leftovers
+Ability: Cute Charm
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Body Slam
+- Thunder Wave
+- Wish
+- Protect
+
+Zubat @ Sharp Beak
+Ability: Inner Focus
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Aerial Ace
+- Sludge Bomb
+- Confuse Ray
+- Toxic
+
+Golbat @ Leftovers
+Ability: Inner Focus
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Aerial Ace
+- Sludge Bomb
+- Confuse Ray
+- Toxic
+
+Oddish @ Miracle Seed
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Sleep Powder
+- Moonlight
+
+Gloom @ Miracle Seed
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Sleep Powder
+- Moonlight
+
+Vileplume
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Sleep Powder
+- Aromatherapy
+
+Paras @ Silver Powder
+Ability: Effect Spore
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Spore
+- Sludge Bomb
+- Giga Drain
+- Swords Dance
+
+Parasect @ Leftovers
+Ability: Effect Spore
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Spore
+- Sludge Bomb
+- Giga Drain
+- Swords Dance
+
+Venonat @ Twisted Spoon
+Ability: Compound Eyes
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Sleep Powder
+- Psychic
+- Giga Drain
+- Stun Spore
+
+Venomoth
+Ability: Shield Dust
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Sleep Powder
+- Psychic
+- Giga Drain
+- Baton Pass
+
+Diglett @ Soft Sand
+Ability: Arena Trap
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Sludge Bomb
+- Toxic
+
+Dugtrio
+Ability: Arena Trap
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Sludge Bomb
+- Aerial Ace
+
+Meowth @ Silk Scarf
+Ability: Pickup
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Hypnosis
+- Fake Out
+
+Persian
+Ability: Limber
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Hypnosis
+- Fake Out
+
+Psyduck @ Mystic Water
+Ability: Cloud Nine
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Psychic
+- Hypnosis
+
+Golduck
+Ability: Cloud Nine
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Psychic
+- Calm Mind
+
+Mankey @ Black Belt
+Ability: Vital Spirit
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Cross Chop
+- Rock Slide
+- Earthquake
+- Bulk Up
+
+Primeape
+Ability: Vital Spirit
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Cross Chop
+- Rock Slide
+- Earthquake
+- Bulk Up
+
+Growlithe @ Charcoal
+Ability: Intimidate
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Mild Nature
+- Flamethrower
+- Extreme Speed
+- Crunch
+- Toxic
+
+Arcanine
+Ability: Intimidate
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Mild Nature
+- Fire Blast
+- Extreme Speed
+- Crunch
+- Toxic
+
+Poliwag @ Mystic Water
+Ability: Water Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Hypnosis
+- Psychic
+
+Poliwhirl @ Mystic Water
+Ability: Water Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Hypnosis
+- Psychic
+
+Poliwrath
+Ability: Water Absorb
+EVs: 252 HP / 252 Atk / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Brave Nature
+- Brick Break
+- Surf
+- Earthquake
+- Hypnosis
+
+Abra @ Twisted Spoon
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Fire Punch
+- Thunder Punch
+- Encore
+
+Kadabra @ Lum Berry
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Fire Punch
+- Thunder Punch
+- Recover
+
+Alakazam
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Fire Punch
+- Calm Mind
+- Recover
+
+Machop @ Black Belt
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Cross Chop
+- Rock Slide
+- Earthquake
+- Bulk Up
+
+Machoke @ Black Belt
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Cross Chop
+- Rock Slide
+- Earthquake
+- Bulk Up
+
+Machamp
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Cross Chop
+- Rock Slide
+- Earthquake
+- Bulk Up
+
+Bellsprout @ Miracle Seed
+Ability: Chlorophyll
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Sludge Bomb
+- Sleep Powder
+- Giga Drain
+- Swords Dance
+
+Weepinbell @ Miracle Seed
+Ability: Chlorophyll
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Sludge Bomb
+- Sleep Powder
+- Giga Drain
+- Swords Dance
+
+Victreebel
+Ability: Chlorophyll
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Sludge Bomb
+- Sleep Powder
+- Giga Drain
+- Swords Dance
+
+Tentacool @ Mystic Water
+Ability: Clear Body
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Sludge Bomb
+- Rapid Spin
+
+Tentacruel
+Ability: Clear Body
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Sludge Bomb
+- Rapid Spin
+
+Geodude @ Hard Stone
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Double-Edge
+- Explosion
+
+Graveler @ Hard Stone
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Double-Edge
+- Explosion
+
+Golem
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Double-Edge
+- Explosion
+
+Ponyta @ Charcoal
+Ability: Flash Fire
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Mild Nature
+- Flamethrower
+- Double-Edge
+- Iron Tail
+- Toxic
+
+Rapidash
+Ability: Flash Fire
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Mild Nature
+- Fire Blast
+- Double-Edge
+- Iron Tail
+- Toxic
+
+Slowpoke @ Mystic Water
+Ability: Own Tempo
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Psychic
+- Ice Beam
+- Thunder Wave
+
+Slowbro
+Ability: Own Tempo
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Psychic
+- Calm Mind
+- Thunder Wave
+
+Magnemite @ Magnet
+Ability: Magnet Pull
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Thunderbolt
+- Metal Sound
+- Thunder Wave
+- Toxic
+
+Magneton
+Ability: Magnet Pull
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Thunderbolt
+- Metal Sound
+- Thunder Wave
+- Toxic
+
+Farfetch'd @ Stick
+Ability: Inner Focus
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Swords Dance
+- Aerial Ace
+- Return
+- Agility
+
+Doduo @ Sharp Beak
+Ability: Early Bird
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Drill Peck
+- Return
+- Quick Attack
+- Steel Wing
+
+Dodrio
+Ability: Early Bird
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Drill Peck
+- Return
+- Quick Attack
+- Steel Wing
+
+Seel @ Never-Melt Ice
+Ability: Thick Fat
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Encore
+- Toxic
+
+Dewgong
+Ability: Thick Fat
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Encore
+- Toxic
+
+Grimer @ Poison Barb
+Ability: Sticky Hold
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Sludge Bomb
+- Shadow Ball
+- Brick Break
+- Explosion
+
+Muk
+Ability: Sticky Hold
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Sludge Bomb
+- Shadow Ball
+- Brick Break
+- Explosion
+
+Shellder @ Never-Melt Ice
+Ability: Shell Armor
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Spikes
+- Explosion
+
+Cloyster
+Ability: Shell Armor
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Spikes
+- Explosion
+
+Gastly @ Spell Tag
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Psychic
+- Hypnosis
+- Destiny Bond
+
+Haunter @ Lum Berry
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Psychic
+- Hypnosis
+- Destiny Bond
+
+Gengar
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Ice Punch
+- Will-O-Wisp
+- Destiny Bond
+
+Onix @ Hard Stone
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Explosion
+- Toxic
+
+Drowzee @ Twisted Spoon
+Ability: Insomnia
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Fire Punch
+- Thunder Wave
+- Hypnosis
+
+Hypno
+Ability: Insomnia
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Fire Punch
+- Thunder Wave
+- Wish
+
+Krabby @ Mystic Water
+Ability: Hyper Cutter
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Crabhammer
+- Double-Edge
+- Brick Break
+- Swords Dance
+
+Kingler
+Ability: Hyper Cutter
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Crabhammer
+- Double-Edge
+- Brick Break
+- Swords Dance
+
+Voltorb @ Magnet
+Ability: Static
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Explosion
+- Thunder Wave
+- Taunt
+
+Electrode
+Ability: Static
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Explosion
+- Thunder Wave
+- Taunt
+
+Exeggcute @ Miracle Seed
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Giga Drain
+- Sleep Powder
+- Leech Seed
+
+Exeggutor
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Giga Drain
+- Sleep Powder
+- Explosion
+
+Cubone @ Thick Club
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Bonemerang
+- Rock Slide
+- Double-Edge
+- Swords Dance
+
+Marowak @ Thick Club
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Bonemerang
+- Rock Slide
+- Double-Edge
+- Swords Dance
+
+Hitmonlee
+Ability: Limber
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Brick Break
+- Rock Slide
+- Earthquake
+- Bulk Up
+
+Hitmonchan
+Ability: Keen Eye
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Sky Uppercut
+- Rock Slide
+- Earthquake
+- Rapid Spin
+
+Lickitung @ Silk Scarf
+Ability: Own Tempo
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Body Slam
+- Earthquake
+- Shadow Ball
+- Wish
+
+Koffing @ Poison Barb
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Sludge Bomb
+- Will-O-Wisp
+- Pain Split
+- Haze
+
+Weezing
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Sludge Bomb
+- Will-O-Wisp
+- Pain Split
+- Haze
+
+Rhyhorn @ Hard Stone
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Megahorn
+- Double-Edge
+
+Rhydon
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Megahorn
+- Double-Edge
+
+Chansey
+Ability: Natural Cure
+EVs: 252 Def / 252 SpD / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Calm Nature
+- Seismic Toss
+- Soft-Boiled
+- Thunder Wave
+- Toxic
+
+Tangela @ Miracle Seed
+Ability: Chlorophyll
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Giga Drain
+- Sleep Powder
+- Leech Seed
+- Stun Spore
+
+Kangaskhan
+Ability: Early Bird
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Earthquake
+- Shadow Ball
+- Fake Out
+
+Horsea @ Mystic Water
+Ability: Swift Swim
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Rain Dance
+- Toxic
+
+Seadra @ Mystic Water
+Ability: Poison Point
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Rain Dance
+- Toxic
+
+Goldeen @ Mystic Water
+Ability: Swift Swim
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Megahorn
+- Return
+- Surf
+- Agility
+
+Seaking @ Choice Band
+Ability: Swift Swim
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Megahorn
+- Return
+- Surf
+- Agility
+
+Staryu @ Mystic Water
+Ability: Natural Cure
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Surf
+- Thunderbolt
+- Ice Beam
+- Recover
+
+Starmie
+Ability: Natural Cure
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Surf
+- Thunderbolt
+- Ice Beam
+- Recover
+
+Mr. Mime
+Ability: Soundproof
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Thunderbolt
+- Calm Mind
+- Baton Pass
+
+Scyther
+Ability: Swarm
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Aerial Ace
+- Silver Wind
+- Swords Dance
+- Baton Pass
+
+Jynx
+Ability: Oblivious
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Ice Beam
+- Psychic
+- Lovely Kiss
+- Calm Mind
+
+Electabuzz
+Ability: Static
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Hasty Nature
+- Thunderbolt
+- Ice Punch
+- Cross Chop
+- Psychic
+
+Magmar
+Ability: Flame Body
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Hasty Nature
+- Fire Blast
+- Thunder Punch
+- Cross Chop
+- Psychic
+
+Pinsir
+Ability: Hyper Cutter
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Swords Dance
+- Brick Break
+- Rock Slide
+- Return
+
+Tauros
+Ability: Intimidate
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Earthquake
+- Rock Slide
+- Fire Blast
+
+Magikarp @ Salac Berry
+Ability: Swift Swim
+EVs: 252 HP / 252 Spe / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Splash
+- Tackle
+- Flail
+
+Gyarados
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Dragon Dance
+- Earthquake
+- Return
+- Hydro Pump
+
+Lapras
+Ability: Water Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Thunderbolt
+- Sing
+
+Ditto @ Metal Powder
+Ability: Limber
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Transform
+
+Eevee @ Silk Scarf
+Ability: Run Away
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Shadow Ball
+- Wish
+- Baton Pass
+
+Vaporeon
+Ability: Water Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Wish
+- Protect
+
+Jolteon
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Thunder Wave
+- Wish
+- Baton Pass
+
+Flareon
+Ability: Flash Fire
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Shadow Ball
+- Return
+- Flamethrower
+- Quick Attack
+
+Porygon
+Ability: Trace
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Tri Attack
+- Thunderbolt
+- Ice Beam
+- Recover
+
+Omanyte @ Mystic Water
+Ability: Swift Swim
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Spikes
+- Toxic
+
+Omastar
+Ability: Swift Swim
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Spikes
+- Toxic
+
+Kabuto @ Hard Stone
+Ability: Battle Armor
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Aerial Ace
+- Swords Dance
+- Surf
+
+Kabutops
+Ability: Battle Armor
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Brick Break
+- Swords Dance
+- Surf
+
+Aerodactyl
+Ability: Rock Head
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Rock Slide
+- Earthquake
+- Double-Edge
+- Aerial Ace
+
+Snorlax
+Ability: Immunity
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Body Slam
+- Shadow Ball
+- Earthquake
+- Rest
+
+Articuno
+Ability: Pressure
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Ice Beam
+- Toxic
+- Rest
+- Roar
+
+Zapdos
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Drill Peck
+- Thunder Wave
+- Rest
+
+Moltres
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Fire Blast
+- Flamethrower
+- Toxic
+- Rest
+
+Dratini @ Dragon Fang
+Ability: Shed Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Dragon Dance
+- Return
+- Iron Tail
+- Thunder Wave
+
+Dragonair @ Dragon Fang
+Ability: Shed Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Dragon Dance
+- Return
+- Iron Tail
+- Thunder Wave
+
+Dragonite
+Ability: Inner Focus
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Dragon Dance
+- Aerial Ace
+- Earthquake
+- Ice Beam
+
+Mewtwo
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Ice Beam
+- Thunderbolt
+- Recover
+
+Mew
+Ability: Synchronize
+EVs: 252 HP / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Will-O-Wisp
+- Soft-Boiled
+- Explosion
+
+
+
+Chikorita @ Miracle Seed
+Ability: Overgrow
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Razor Leaf
+- Leech Seed
+- Reflect
+- Synthesis
+
+Bayleef @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Giga Drain
+- Leech Seed
+- Reflect
+- Synthesis
+
+Meganium
+Ability: Overgrow
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Giga Drain
+- Leech Seed
+- Reflect
+- Synthesis
+
+Cyndaquil @ Charcoal
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Flamethrower
+- Dig
+- Toxic
+- Smokescreen
+
+Quilava @ Charcoal
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Flamethrower
+- Dig
+- Toxic
+- Quick Attack
+
+Typhlosion
+Ability: Blaze
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Hasty Nature
+- Fire Blast
+- Thunder Punch
+- Earthquake
+- Toxic
+
+Totodile @ Mystic Water
+Ability: Torrent
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Surf
+- Ice Beam
+- Brick Break
+- Swords Dance
+
+Croconaw @ Mystic Water
+Ability: Torrent
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Surf
+- Ice Beam
+- Brick Break
+- Swords Dance
+
+Feraligatr
+Ability: Torrent
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Hydro Pump
+- Ice Beam
+- Earthquake
+- Swords Dance
+
+Sentret @ Silk Scarf
+Ability: Run Away
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Brick Break
+- Quick Attack
+
+Furret @ Choice Band
+Ability: Keen Eye
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Brick Break
+- Quick Attack
+
+Hoothoot @ Twisted Spoon
+Ability: Insomnia
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Aerial Ace
+- Hypnosis
+- Reflect
+
+Noctowl @ Leftovers
+Ability: Insomnia
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Aerial Ace
+- Hypnosis
+- Reflect
+
+Ledyba @ Silver Powder
+Ability: Swarm
+EVs: 252 HP / 4 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Silver Wind
+- Light Screen
+- Reflect
+- Baton Pass
+
+Ledian @ Salac Berry
+Ability: Swarm
+EVs: 252 HP / 4 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Silver Wind
+- Light Screen
+- Reflect
+- Baton Pass
+
+Spinarak @ Poison Barb
+Ability: Swarm
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Sludge Bomb
+- Signal Beam
+- Spider Web
+- Baton Pass
+
+Ariados @ Silver Powder
+Ability: Swarm
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Sludge Bomb
+- Signal Beam
+- Spider Web
+- Baton Pass
+
+Crobat
+Ability: Inner Focus
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Sludge Bomb
+- Aerial Ace
+- Shadow Ball
+- Confuse Ray
+
+Chinchou @ Magnet
+Ability: Volt Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Thunderbolt
+- Ice Beam
+- Thunder Wave
+
+Lanturn
+Ability: Volt Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Thunderbolt
+- Ice Beam
+- Thunder Wave
+
+Pichu @ Magnet
+Ability: Static
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Thunder Wave
+- Encore
+- Wish
+
+Cleffa @ Twisted Spoon
+Ability: Cute Charm
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Thunderbolt
+- Ice Beam
+- Wish
+
+Igglybuff @ Silk Scarf
+Ability: Cute Charm
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Calm Nature
+- Body Slam
+- Thunder Wave
+- Wish
+- Protect
+
+Togepi @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Calm Nature
+- Seismic Toss
+- Thunder Wave
+- Wish
+- Protect
+
+Togetic @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Calm Nature
+- Seismic Toss
+- Thunder Wave
+- Wish
+- Protect
+
+Natu @ Twisted Spoon
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Giga Drain
+- Wish
+- Baton Pass
+
+Xatu @ Twisted Spoon
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Giga Drain
+- Wish
+- Baton Pass
+
+Mareep @ Magnet
+Ability: Static
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Thunderbolt
+- Fire Punch
+- Thunder Wave
+- Reflect
+
+Flaaffy @ Magnet
+Ability: Static
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Thunderbolt
+- Fire Punch
+- Thunder Wave
+- Reflect
+
+Ampharos
+Ability: Static
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Thunderbolt
+- Fire Punch
+- Thunder Wave
+- Reflect
+
+Bellossom @ Miracle Seed
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Sleep Powder
+- Sludge Bomb
+- Moonlight
+
+Marill @ Mystic Water
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Brick Break
+- Surf
+- Toxic
+
+Azumarill
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Brick Break
+- Surf
+- Toxic
+
+Sudowoodo @ Hard Stone
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Double-Edge
+- Explosion
+
+Politoed
+Ability: Water Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Hypnosis
+- Psychic
+
+Hoppip @ Salac Berry
+Ability: Chlorophyll
+EVs: 252 HP / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Sleep Powder
+- Leech Seed
+- Encore
+- Substitute
+
+Skiploom @ Salac Berry
+Ability: Chlorophyll
+EVs: 252 HP / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Sleep Powder
+- Leech Seed
+- Encore
+- Substitute
+
+Jumpluff
+Ability: Chlorophyll
+EVs: 252 HP / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Sleep Powder
+- Leech Seed
+- Encore
+- Substitute
+
+Aipom @ Choice Band
+Ability: Run Away
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Brick Break
+- Baton Pass
+
+Sunkern @ Petaya Berry
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Leech Seed
+- Sunny Day
+- Synthesis
+
+Sunflora @ Petaya Berry
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Leech Seed
+- Sunny Day
+- Synthesis
+
+Yanma @ Silver Powder
+Ability: Speed Boost
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Signal Beam
+- Aerial Ace
+- Hypnosis
+- Protect
+
+Wooper @ Soft Sand
+Ability: Water Absorb
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Surf
+- Ice Beam
+- Yawn
+
+Quagsire
+Ability: Water Absorb
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Surf
+- Ice Beam
+- Yawn
+
+Espeon
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Calm Mind
+- Morning Sun
+- Baton Pass
+
+Umbreon
+Ability: Synchronize
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Calm Nature
+- Toxic
+- Wish
+- Protect
+- Baton Pass
+
+Murkrow @ Black Glasses
+Ability: Insomnia
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Hasty Nature
+- Drill Peck
+- Shadow Ball
+- Thunder Wave
+- Taunt
+
+Slowking
+Ability: Own Tempo
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Psychic
+- Ice Beam
+- Thunder Wave
+
+Misdreavus
+Ability: Levitate
+EVs: 252 HP / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Mean Look
+- Perish Song
+- Protect
+- Thunderbolt
+
+Unown @ Leftovers
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Hidden Power [Dark]
+
+Wobbuffet
+Ability: Shadow Tag
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Counter
+- Mirror Coat
+- Encore
+- Safeguard
+
+Girafarig @ Twisted Spoon
+Ability: Inner Focus
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Thunderbolt
+- Calm Mind
+- Baton Pass
+
+Pineco @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Impish Nature
+- Spikes
+- Rapid Spin
+- Explosion
+- Toxic
+
+Forretress
+Ability: Sturdy
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Impish Nature
+- Spikes
+- Rapid Spin
+- Explosion
+- Toxic
+
+Dunsparce @ King's Rock
+Ability: Serene Grace
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Body Slam
+- Rock Slide
+- Shadow Ball
+- Glare
+
+Gligar @ Soft Sand
+Ability: Hyper Cutter
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Aerial Ace
+- Swords Dance
+- Toxic
+
+Steelix
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Explosion
+- Roar
+
+Snubbull @ Silk Scarf
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Shadow Ball
+- Brick Break
+- Thunder Wave
+
+Granbull
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Shadow Ball
+- Brick Break
+- Thunder Wave
+
+Qwilfish @ Poison Barb
+Ability: Swift Swim
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Sludge Bomb
+- Spikes
+- Surf
+- Explosion
+
+Scizor
+Ability: Swarm
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Swords Dance
+- Silver Wind
+- Steel Wing
+- Baton Pass
+
+Shuckle @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Careful Nature
+- Toxic
+- Protect
+- Encore
+- Rest
+
+Heracross
+Ability: Guts
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Megahorn
+- Brick Break
+- Rock Slide
+- Swords Dance
+
+Sneasel @ Black Glasses
+Ability: Inner Focus
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Shadow Ball
+- Brick Break
+- Aerial Ace
+- Swords Dance
+
+Teddiursa @ Choice Band
+Ability: Pickup
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Earthquake
+- Brick Break
+- Swords Dance
+
+Ursaring
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Earthquake
+- Brick Break
+- Swords Dance
+
+Slugma @ Charcoal
+Ability: Flame Body
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Flamethrower
+- Rock Slide
+- Toxic
+- Recover
+
+Magcargo @ Leftovers
+Ability: Flame Body
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Flamethrower
+- Rock Slide
+- Toxic
+- Recover
+
+Swinub @ Soft Sand
+Ability: Oblivious
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Ice Beam
+- Rock Slide
+- Toxic
+
+Piloswine
+Ability: Oblivious
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Ice Beam
+- Rock Slide
+- Toxic
+
+Corsola @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Surf
+- Recover
+- Toxic
+- Reflect
+
+Remoraid @ Mystic Water
+Ability: Hustle
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Fire Blast
+- Psychic
+
+Octillery
+Ability: Suction Cups
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Fire Blast
+- Psychic
+
+Delibird @ Sharp Beak
+Ability: Hustle
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Aerial Ace
+- Ice Beam
+- Brick Break
+- Rapid Spin
+
+Mantine
+Ability: Water Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Toxic
+- Rest
+
+Skarmory
+Ability: Keen Eye
+EVs: 252 HP / 252 Def / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Impish Nature
+- Spikes
+- Drill Peck
+- Roar
+- Toxic
+
+Houndour @ Black Glasses
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Fire Blast
+- Crunch
+- Will-O-Wisp
+- Taunt
+
+Houndoom
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Fire Blast
+- Crunch
+- Will-O-Wisp
+- Taunt
+
+Kingdra
+Ability: Swift Swim
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Dragon Dance
+- Rest
+
+Phanpy @ Soft Sand
+Ability: Pickup
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Rapid Spin
+- Roar
+
+Donphan
+Ability: Sturdy
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Rapid Spin
+- Roar
+
+Porygon2
+Ability: Trace
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Tri Attack
+- Thunderbolt
+- Ice Beam
+- Recover
+
+Stantler @ Choice Band
+Ability: Intimidate
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Return
+- Earthquake
+- Hypnosis
+- Psychic
+
+Smeargle
+Ability: Own Tempo
+EVs: 252 HP / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Spore
+- Spikes
+- Baton Pass
+- Substitute
+
+Tyrogue @ Black Belt
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Brick Break
+- Rock Slide
+- Earthquake
+- Bulk Up
+
+Hitmontop
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Brick Break
+- Rock Slide
+- Rapid Spin
+- Bulk Up
+
+Smoochum @ Never-Melt Ice
+Ability: Oblivious
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Ice Beam
+- Psychic
+- Lovely Kiss
+- Calm Mind
+
+Elekid @ Magnet
+Ability: Static
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Hasty Nature
+- Thunderbolt
+- Ice Punch
+- Cross Chop
+- Psychic
+
+Magby @ Charcoal
+Ability: Flame Body
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Hasty Nature
+- Fire Blast
+- Thunder Punch
+- Cross Chop
+- Psychic
+
+Miltank
+Ability: Thick Fat
+EVs: 252 HP / 252 Def / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Impish Nature
+- Body Slam
+- Earthquake
+- Milk Drink
+- Heal Bell
+
+Blissey
+Ability: Natural Cure
+EVs: 252 Def / 252 SpD / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Calm Nature
+- Seismic Toss
+- Soft-Boiled
+- Thunder Wave
+- Aromatherapy
+
+Raikou
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Calm Mind
+- Substitute
+- Roar
+
+Entei
+Ability: Pressure
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Fire Blast
+- Return
+- Iron Tail
+- Calm Mind
+
+Suicune
+Ability: Pressure
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Surf
+- Calm Mind
+- Rest
+- Roar
+
+Larvitar @ Hard Stone
+Ability: Guts
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Dragon Dance
+- Brick Break
+
+Pupitar @ Hard Stone
+Ability: Shed Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Dragon Dance
+- Brick Break
+
+Tyranitar
+Ability: Sand Stream
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Rock Slide
+- Earthquake
+- Dragon Dance
+- Ice Beam
+
+Lugia
+Ability: Pressure
+EVs: 252 HP / 252 Def / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Psychic
+- Ice Beam
+- Calm Mind
+- Recover
+
+Ho-Oh
+Ability: Pressure
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Sacred Fire
+- Earthquake
+- Shadow Ball
+- Recover
+
+Celebi
+Ability: Natural Cure
+EVs: 252 HP / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Giga Drain
+- Recover
+- Baton Pass
+
+
+
+Treecko @ Miracle Seed
+Ability: Overgrow
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Giga Drain
+- Dragon Claw
+- Leech Seed
+- Substitute
+
+Grovyle @ Miracle Seed
+Ability: Overgrow
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Giga Drain
+- Dragon Claw
+- Leech Seed
+- Substitute
+
+Sceptile
+Ability: Overgrow
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Giga Drain
+- Dragon Claw
+- Leech Seed
+- Substitute
+
+Torchic @ Charcoal
+Ability: Blaze
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Mild Nature
+- Flamethrower
+- Sky Uppercut
+- Rock Slide
+- Bulk Up
+
+Combusken @ Black Belt
+Ability: Blaze
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Fire Blast
+- Sky Uppercut
+- Rock Slide
+- Bulk Up
+
+Blaziken
+Ability: Blaze
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Fire Blast
+- Sky Uppercut
+- Rock Slide
+- Bulk Up
+
+Mudkip @ Mystic Water
+Ability: Torrent
+EVs: 252 HP / 252 Atk / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Brave Nature
+- Surf
+- Ice Beam
+- Rock Slide
+- Protect
+
+Marshtomp @ Soft Sand
+Ability: Torrent
+EVs: 252 HP / 252 Atk / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Brave Nature
+- Earthquake
+- Surf
+- Ice Beam
+- Protect
+
+Swampert
+Ability: Torrent
+EVs: 252 HP / 252 Atk / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Brave Nature
+- Earthquake
+- Surf
+- Ice Beam
+- Protect
+
+Poochyena @ Black Glasses
+Ability: Run Away
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Shadow Ball
+- Return
+- Iron Tail
+- Howl
+
+Mightyena @ Choice Band
+Ability: Intimidate
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Shadow Ball
+- Return
+- Iron Tail
+- Howl
+
+Zigzagoon @ Salac Berry
+Ability: Pickup
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Surf
+- Belly Drum
+
+Linoone
+Ability: Pickup
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Substitute
+- Belly Drum
+
+Wurmple @ Silver Powder
+Ability: Shield Dust
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Tackle
+- String Shot
+- Poison Sting
+
+Silcoon @ Leftovers
+Ability: Shed Skin
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Harden
+
+Beautifly @ Silver Powder
+Ability: Swarm
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Giga Drain
+- Psychic
+- Morning Sun
+- Stun Spore
+
+Cascoon @ Leftovers
+Ability: Shed Skin
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Harden
+
+Dustox @ Twisted Spoon
+Ability: Shield Dust
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Giga Drain
+- Toxic
+- Moonlight
+
+Lotad @ Mystic Water
+Ability: Swift Swim
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Giga Drain
+- Ice Beam
+- Leech Seed
+
+Lombre @ Mystic Water
+Ability: Swift Swim
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Giga Drain
+- Ice Beam
+- Leech Seed
+
+Ludicolo
+Ability: Swift Swim
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Giga Drain
+- Ice Beam
+- Rain Dance
+
+Seedot @ Liechi Berry
+Ability: Chlorophyll
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Giga Drain
+- Shadow Ball
+- Explosion
+- Swords Dance
+
+Nuzleaf @ Black Glasses
+Ability: Chlorophyll
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Giga Drain
+- Shadow Ball
+- Brick Break
+- Explosion
+
+Shiftry
+Ability: Chlorophyll
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Giga Drain
+- Shadow Ball
+- Brick Break
+- Explosion
+
+Taillow @ Sharp Beak
+Ability: Guts
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Aerial Ace
+- Return
+- Steel Wing
+- Quick Attack
+
+Swellow
+Ability: Guts
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Aerial Ace
+- Return
+- Steel Wing
+- Quick Attack
+
+Wingull @ Mystic Water
+Ability: Keen Eye
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Aerial Ace
+- Toxic
+
+Pelipper
+Ability: Keen Eye
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Toxic
+- Protect
+
+Ralts @ Twisted Spoon
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Thunderbolt
+- Calm Mind
+- Will-O-Wisp
+
+Kirlia @ Twisted Spoon
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Thunderbolt
+- Calm Mind
+- Will-O-Wisp
+
+Gardevoir
+Ability: Trace
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Psychic
+- Thunderbolt
+- Calm Mind
+- Will-O-Wisp
+
+Surskit @ Mystic Water
+Ability: Swift Swim
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Surf
+- Giga Drain
+- Ice Beam
+- Rain Dance
+
+Masquerain @ Silver Powder
+Ability: Intimidate
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Hydro Pump
+- Ice Beam
+- Giga Drain
+- Stun Spore
+
+Shroomish @ Miracle Seed
+Ability: Effect Spore
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Giga Drain
+- Sludge Bomb
+- Spore
+- Leech Seed
+
+Breloom
+Ability: Effect Spore
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Spore
+- Sky Uppercut
+- Mach Punch
+- Sludge Bomb
+
+Slakoth @ Silk Scarf
+Ability: Truant
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Shadow Ball
+- Brick Break
+- Yawn
+
+Vigoroth @ Choice Band
+Ability: Vital Spirit
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Brick Break
+- Bulk Up
+
+Slaking
+Ability: Truant
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Earthquake
+- Shadow Ball
+- Brick Break
+
+Nincada @ Soft Sand
+Ability: Compound Eyes
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Dig
+- Aerial Ace
+- Toxic
+- Protect
+
+Ninjask
+Ability: Speed Boost
+EVs: 252 HP / 4 Atk / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Swords Dance
+- Baton Pass
+- Substitute
+- Aerial Ace
+
+Shedinja
+Ability: Wonder Guard
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Shadow Ball
+- Silver Wind
+- Swords Dance
+- Protect
+
+Whismur @ Silk Scarf
+Ability: Soundproof
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Hyper Voice
+- Ice Beam
+- Fire Blast
+- Shadow Ball
+
+Loudred @ Silk Scarf
+Ability: Soundproof
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Hyper Voice
+- Ice Beam
+- Fire Blast
+- Shadow Ball
+
+Exploud
+Ability: Soundproof
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Hyper Voice
+- Ice Beam
+- Fire Blast
+- Shadow Ball
+
+Makuhita @ Black Belt
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Brick Break
+- Rock Slide
+- Earthquake
+- Bulk Up
+
+Hariyama
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Brick Break
+- Rock Slide
+- Earthquake
+- Bulk Up
+
+Azurill @ Silk Scarf
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Iron Tail
+- Sing
+- Encore
+
+Nosepass @ Hard Stone
+Ability: Sturdy
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Impish Nature
+- Rock Slide
+- Thunder Wave
+- Toxic
+- Explosion
+
+Skitty @ Silk Scarf
+Ability: Cute Charm
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Thunder Wave
+- Wish
+
+Delcatty @ King's Rock
+Ability: Cute Charm
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Thunder Wave
+- Wish
+
+Sableye @ Spell Tag
+Ability: Keen Eye
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Shadow Ball
+- Brick Break
+- Recover
+- Will-O-Wisp
+
+Mawile @ Metal Coat
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Iron Tail
+- Sludge Bomb
+- Brick Break
+- Swords Dance
+
+Aron @ Hard Stone
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Iron Tail
+- Double-Edge
+- Earthquake
+
+Lairon @ Metal Coat
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Iron Tail
+- Double-Edge
+- Earthquake
+
+Aggron
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Iron Tail
+- Double-Edge
+- Earthquake
+
+Meditite @ Black Belt
+Ability: Pure Power
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Brick Break
+- Shadow Ball
+- Rock Slide
+- Bulk Up
+
+Medicham
+Ability: Pure Power
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Brick Break
+- Shadow Ball
+- Rock Slide
+- Bulk Up
+
+Electrike @ Magnet
+Ability: Static
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Bite
+- Thunder Wave
+- Roar
+
+Manectric
+Ability: Static
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Bite
+- Thunder Wave
+- Roar
+
+Plusle @ Magnet
+Ability: Plus
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Encore
+- Baton Pass
+- Substitute
+
+Minun @ Magnet
+Ability: Minus
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Thunderbolt
+- Encore
+- Baton Pass
+- Substitute
+
+Volbeat @ Silver Powder
+Ability: Swarm
+EVs: 252 HP / 4 Atk / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Tail Glow
+- Baton Pass
+- Signal Beam
+- Thunder Wave
+
+Illumise @ Leftovers
+Ability: Oblivious
+EVs: 252 HP / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Wish
+- Baton Pass
+- Thunderbolt
+- Encore
+
+Roselia @ Miracle Seed
+Ability: Natural Cure
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Spikes
+- Synthesis
+
+Gulpin @ Poison Barb
+Ability: Liquid Ooze
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Sludge Bomb
+- Giga Drain
+- Ice Beam
+- Yawn
+
+Swalot @ Leftovers
+Ability: Liquid Ooze
+EVs: 252 HP / 252 SpA / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Sludge Bomb
+- Giga Drain
+- Ice Beam
+- Yawn
+
+Carvanha @ Black Glasses
+Ability: Rough Skin
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Surf
+- Crunch
+- Double-Edge
+- Ice Beam
+
+Sharpedo
+Ability: Rough Skin
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Surf
+- Crunch
+- Double-Edge
+- Ice Beam
+
+Wailmer @ Mystic Water
+Ability: Water Veil
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Water Spout
+- Rest
+
+Wailord
+Ability: Water Veil
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Water Spout
+- Rest
+
+Numel @ Charcoal
+Ability: Oblivious
+EVs: 252 HP / 252 SpA / 4 Atk
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Quiet Nature
+- Flamethrower
+- Earthquake
+- Rock Slide
+- Toxic
+
+Camerupt
+Ability: Magma Armor
+EVs: 252 HP / 252 SpA / 4 Atk
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Quiet Nature
+- Fire Blast
+- Earthquake
+- Rock Slide
+- Toxic
+
+Torkoal @ Leftovers
+Ability: White Smoke
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Flamethrower
+- Rapid Spin
+- Yawn
+- Explosion
+
+Spoink @ Twisted Spoon
+Ability: Thick Fat
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Calm Mind
+- Thunder Wave
+- Reflect
+
+Grumpig
+Ability: Thick Fat
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Calm Mind
+- Thunder Wave
+- Reflect
+
+Spinda @ King's Rock
+Ability: Own Tempo
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Shadow Ball
+- Brick Break
+- Teeter Dance
+
+Trapinch @ Soft Sand
+Ability: Arena Trap
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Quick Attack
+- Toxic
+
+Vibrava @ Soft Sand
+Ability: Levitate
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Screech
+
+Flygon
+Ability: Levitate
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Fire Blast
+
+Cacnea @ Miracle Seed
+Ability: Sand Veil
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Giga Drain
+- Needle Arm
+- Focus Punch
+- Spikes
+
+Cacturne
+Ability: Sand Veil
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Giga Drain
+- Needle Arm
+- Focus Punch
+- Spikes
+
+Swablu @ Sharp Beak
+Ability: Natural Cure
+EVs: 252 HP / 252 SpD / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Careful Nature
+- Aerial Ace
+- Toxic
+- Rest
+- Heal Bell
+
+Altaria
+Ability: Natural Cure
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Dragon Dance
+- Aerial Ace
+- Earthquake
+- Rest
+
+Zangoose
+Ability: Immunity
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Return
+- Shadow Ball
+- Brick Break
+- Swords Dance
+
+Seviper @ Poison Barb
+Ability: Shed Skin
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Sludge Bomb
+- Earthquake
+- Flamethrower
+- Glare
+
+Lunatone
+Ability: Levitate
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Ice Beam
+- Calm Mind
+- Hypnosis
+
+Solrock
+Ability: Levitate
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Explosion
+- Reflect
+
+Barboach @ Soft Sand
+Ability: Oblivious
+EVs: 252 HP / 252 Atk / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Brave Nature
+- Earthquake
+- Surf
+- Ice Beam
+- Dragon Dance
+
+Whiscash
+Ability: Oblivious
+EVs: 252 HP / 252 Atk / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Brave Nature
+- Earthquake
+- Surf
+- Ice Beam
+- Dragon Dance
+
+Corphish @ Mystic Water
+Ability: Hyper Cutter
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Crabhammer
+- Sludge Bomb
+- Brick Break
+- Swords Dance
+
+Crawdaunt
+Ability: Hyper Cutter
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Crabhammer
+- Sludge Bomb
+- Brick Break
+- Swords Dance
+
+Baltoy @ Twisted Spoon
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Psychic
+- Earthquake
+- Rapid Spin
+- Explosion
+
+Claydol
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Psychic
+- Earthquake
+- Rapid Spin
+- Explosion
+
+Lileep @ Leftovers
+Ability: Suction Cups
+EVs: 252 HP / 252 SpD / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Calm Nature
+- Giga Drain
+- Rock Slide
+- Recover
+- Toxic
+
+Cradily
+Ability: Suction Cups
+EVs: 252 HP / 252 SpD / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Calm Nature
+- Giga Drain
+- Rock Slide
+- Recover
+- Toxic
+
+Anorith @ Hard Stone
+Ability: Battle Armor
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Brick Break
+- Aerial Ace
+- Swords Dance
+
+Armaldo
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Brick Break
+- Aerial Ace
+- Swords Dance
+
+Feebas @ Mystic Water
+Ability: Swift Swim
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Hypnosis
+- Toxic
+
+Milotic
+Ability: Marvel Scale
+EVs: 252 HP / 252 Def / 4 SpA
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Surf
+- Ice Beam
+- Recover
+- Toxic
+
+Castform @ Shell Bell
+Ability: Forecast
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Weather Ball
+- Thunderbolt
+- Ice Beam
+- Sunny Day
+
+Kecleon @ Silk Scarf
+Ability: Color Change
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Return
+- Shadow Ball
+- Brick Break
+- Thunder Wave
+
+Shuppet @ Spell Tag
+Ability: Insomnia
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Shadow Ball
+- Will-O-Wisp
+- Knock Off
+- Destiny Bond
+
+Banette
+Ability: Insomnia
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Shadow Ball
+- Will-O-Wisp
+- Knock Off
+- Destiny Bond
+
+Duskull @ Spell Tag
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Night Shade
+- Will-O-Wisp
+- Pain Split
+- Protect
+
+Dusclops
+Ability: Pressure
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Night Shade
+- Will-O-Wisp
+- Pain Split
+- Protect
+
+Tropius @ Miracle Seed
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Giga Drain
+- Aerial Ace
+- Leech Seed
+- Synthesis
+
+Chimecho @ Twisted Spoon
+Ability: Levitate
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Calm Mind
+- Heal Bell
+- Hypnosis
+
+Absol
+Ability: Pressure
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Jolly Nature
+- Shadow Ball
+- Rock Slide
+- Aerial Ace
+- Swords Dance
+
+Wynaut @ Leftovers
+Ability: Shadow Tag
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Bold Nature
+- Counter
+- Mirror Coat
+- Encore
+- Safeguard
+
+Snorunt @ Never-Melt Ice
+Ability: Inner Focus
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Ice Beam
+- Crunch
+- Spikes
+- Protect
+
+Glalie
+Ability: Inner Focus
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Ice Beam
+- Crunch
+- Spikes
+- Explosion
+
+Spheal @ Never-Melt Ice
+Ability: Thick Fat
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Encore
+- Toxic
+
+Sealeo @ Never-Melt Ice
+Ability: Thick Fat
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Encore
+- Toxic
+
+Walrein
+Ability: Thick Fat
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Encore
+- Toxic
+
+Clamperl @ Deep Sea Tooth
+Ability: Shell Armor
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Toxic
+- Protect
+
+Huntail @ Mystic Water
+Ability: Swift Swim
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Surf
+- Ice Beam
+- Crunch
+- Double-Edge
+
+Gorebyss
+Ability: Swift Swim
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Psychic
+- Agility
+
+Relicanth
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Double-Edge
+- Earthquake
+- Yawn
+
+Luvdisc @ Mystic Water
+Ability: Swift Swim
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Sweet Kiss
+- Toxic
+
+Bagon @ Dragon Fang
+Ability: Rock Head
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Dragon Dance
+- Double-Edge
+- Brick Break
+- Rock Slide
+
+Shelgon @ Dragon Fang
+Ability: Rock Head
+EVs: 252 Atk / 4 Def / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Dragon Dance
+- Double-Edge
+- Brick Break
+- Rock Slide
+
+Salamence
+Ability: Intimidate
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Dragon Dance
+- Aerial Ace
+- Earthquake
+- Fire Blast
+
+Beldum @ Metal Coat
+Ability: Clear Body
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Take Down
+
+Metang @ Metal Coat
+Ability: Clear Body
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Meteor Mash
+- Earthquake
+- Psychic
+- Explosion
+
+Metagross
+Ability: Clear Body
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Meteor Mash
+- Earthquake
+- Rock Slide
+- Explosion
+
+Regirock
+Ability: Clear Body
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Explosion
+- Thunder Wave
+
+Regice
+Ability: Clear Body
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Ice Beam
+- Thunderbolt
+- Thunder Wave
+- Rest
+
+Registeel
+Ability: Clear Body
+EVs: 252 HP / 128 Def / 128 SpD
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Careful Nature
+- Seismic Toss
+- Thunder Wave
+- Toxic
+- Explosion
+
+Latias
+Ability: Levitate
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Dragon Claw
+- Psychic
+- Calm Mind
+- Recover
+
+Latios
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Timid Nature
+- Dragon Claw
+- Psychic
+- Calm Mind
+- Recover
+
+Kyogre
+Ability: Drizzle
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Surf
+- Ice Beam
+- Thunder
+- Calm Mind
+
+Groudon
+Ability: Drought
+EVs: 252 HP / 252 Atk / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Swords Dance
+- Thunder Wave
+
+Rayquaza
+Ability: Air Lock
+EVs: 252 Atk / 4 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Naughty Nature
+- Dragon Dance
+- Aerial Ace
+- Earthquake
+- Fire Blast
+
+Jirachi
+Ability: Serene Grace
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Modest Nature
+- Psychic
+- Thunderbolt
+- Calm Mind
+- Wish
+
+Deoxys
+Ability: Pressure
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Hasty Nature
+- Psychic
+- Superpower
+- Ice Beam
+- Shadow Ball
